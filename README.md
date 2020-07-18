@@ -4,8 +4,8 @@
 
 <fieldset>
 <legend>Linguagens</legend>
-<p>HTML - CSS - JS</p>
-<p>Bootstrap 4</p>
+HTML - CSS - JS
+Bootstrap 4
 </fieldset>
 
 <img style="margin 15px" src="imf.png">
