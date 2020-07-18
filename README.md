@@ -1,8 +1,11 @@
-Site homeoffice 
+<h1>Site homeoffice</h1>
 
-OnePage
+<p>OnePage</p>
 
-HTML - CSS - JS
-Bootstrap 4
+<fieldset>
+<legend>Linguagens</legend>
+<p>HTML - CSS - JS</p>
+<p>Bootstrap 4</p>
+</fieldset>
 
-<img src="imf.png">
+<img style="margin 15px" src="imf.png">
