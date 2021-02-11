@@ -1,12 +1,12 @@
-<h1>Site homeoffice</h1>
+<h1>Site FullPage</h1>
 
-<p>OnePage</p>
+<p>Conteúdo: Home Office</p>
 
 <fieldset>
 <legend>Linguagens</legend>
 HTML - CSS - JS
-Bootstrap 4
+Framework(Bootstrap 4)
 </fieldset>
 
-<img style="margin 15px" src="imf.png">
+<img style="margin 15px" src="Screenshot_2021-02-11 Método Home Office.png">
 <br>
